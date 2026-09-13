@@ -4,7 +4,7 @@ Upload ALL of these files together into the SAME folder:
 
 index.html
 contact.vcf
-mohammed-alwasli.png
+mohammed-alwasli.jpg
 wasl-logo.png
 wasl-icon.png
 north-star.png
